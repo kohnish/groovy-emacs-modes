@@ -10,7 +10,7 @@
 ;; Keywords: languages
 ;; URL: https://github.com/Groovy-Emacs-Modes/groovy-emacs-modes
 ;; Version: 2.2
-;; Package-Requires: ((s "1.12.0") (emacs "24.3") (dash "2.13.0"))
+;; Package-Requires: ((emacs "24.3"))
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
