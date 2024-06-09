@@ -12,7 +12,6 @@
 ;; Maintainer: Russel Winder <russel@winder.org.uk>
 ;; Version: 201705161954
 ;; Keywords: languages
-;; Package-Requires: ((groovy-mode "0"))
 
 ;;;; NB Version number is date and time yyyymmddhhMM UTC.
 
